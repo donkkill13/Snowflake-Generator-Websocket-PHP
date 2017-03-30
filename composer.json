@@ -1,0 +1,11 @@
+{
+    "require": {
+        "cboden/ratchet": "^0.3.6",
+        "Monolog/Monolog": "^1.22"
+    },
+    "autoload": {
+        "psr-4": {
+          "Snowsocket\\": "src/Snowsocket"
+        }
+    }
+}
